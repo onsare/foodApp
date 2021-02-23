@@ -1,1 +1,3 @@
 # foodApp
+
+![Screenshot](/screenshot.gif)
